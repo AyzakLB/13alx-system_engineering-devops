@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x --exclude=*.*
+chmod -R g+x --exclude=*.*
