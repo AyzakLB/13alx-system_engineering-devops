@@ -1,1 +1,2 @@
-#!bin/bashvim 
+#!/bin/bash
+echo "(Ôo)\n"
